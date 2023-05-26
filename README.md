@@ -12,6 +12,7 @@ This project is a rest application which implements the create, read, update and
 To install and test the project, use the following guide.
 
 1.Clone the project into your eclipse workspace
+
 2.Import the database contained in the databse folder(xampp was used in the development of the database).
 
 Make sure that your database server is running on the port number 3306 or if no make the necessary changes in the application.properties file that exists within the project
